@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>여기는 홈 입니다 <img src="<%=request.getContextPath()%>/img/icon/홈.png" width=40 height=30/></h1>
+	<h1>여기는 홈 입니다. <img src="<%=request.getContextPath()%>/img/icon/홈.png" width=40 height=30/></h1>
 	<hr/>
 	
 	<table border="1">
